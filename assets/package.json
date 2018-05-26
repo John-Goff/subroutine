@@ -8,6 +8,7 @@
   "dependencies": {
     "elm": "^0.18.0",
     "elm-brunch": "^0.10.0",
+    "npm": "^6.1.0",
     "phoenix": "file:../deps/phoenix"
   },
   "devDependencies": {
